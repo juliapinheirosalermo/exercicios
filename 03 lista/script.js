@@ -35,6 +35,7 @@ console.log(descricaoPessoa({ nome: "João", idade: 20}));
 //7
 var calculadora = {
     multiplicar: function (a, b){
+        
         return a * b;
     }
 };
