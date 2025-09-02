@@ -27,4 +27,5 @@ var turma = [
 
 for (let i = 0; i < turma.length; i++){
     console.log([i].nome + " - Nota: " + turma[i].nota);
+    
 }
